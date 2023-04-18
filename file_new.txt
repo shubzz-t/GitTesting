@@ -1,1 +1,1 @@
-this is for checking that weather file is available everywhere in the status or staged area
+this is for checking that weather file is available everywhere and yes checking for the conflict
